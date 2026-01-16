@@ -67,7 +67,20 @@ http://127.0.0.1:8050/
 + 📌 Scalable structure for adding more datasets
 
 # 🖼️ Demo Preview 
-![Dashboard Preview](assets/dashboard_preview.png)
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/f2777a4c-944a-443e-8c81-26e568b0b89f" />
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/4c191bde-1bad-492c-9bcb-efc464a5e2c4" />
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/13357519-6ae3-459f-b618-baef4ba91879" />
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/bf74076b-757a-4687-b275-de65ec5aaf5d" />
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/cebb1528-d909-49da-85b7-2039ae10bd66" />
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/3480303c-5335-47e7-9a0b-35c004b1ccd2" />
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/f935ce50-7c2a-4542-87a0-bc3f1fa9d3f3" />
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/f362a4eb-4a4c-4fe7-9ac4-d87d75590075" />
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/ec6f67d2-46f3-4f12-bcdc-f87ebfc95cea" />
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/582a03ba-447a-42d5-a76c-a7577c83005d" />
+
+
+
+
 
 
 # 🎯 Use Cases
@@ -114,8 +127,8 @@ You are free to use, modify, and distribute this project.
 
 If you like this project or want to collaborate:
 
-**Name: Tanvi Barve**
-Role: Aspiring Data Analyst / Data Scientist
-Skills: Python, Data Analysis, Visualization, AI & Automation
+- **Name: Tanvi Barve**
+- **Role: Aspiring Data Analyst / Data Scientist**
+- **Skills: Python, Data Analysis, Visualization, AI & Automation**
 
 **⭐ Don’t forget to star the repository if you found it useful!**
